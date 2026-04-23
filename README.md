@@ -42,6 +42,8 @@ Uma boa solução não é necessariamente a mais rápida, nem a mais legível, m
 | `javascript/medium/` | Problemas médios em JavaScript |
 | `javascript/hard/` | Problemas difíceis em JavaScript |
 
+
+
 ---
 
 🔗 Perfil no LeetCode: [leetcode.com/u/0OClZgKnZL](https://leetcode.com/u/0OClZgKnZL/)
